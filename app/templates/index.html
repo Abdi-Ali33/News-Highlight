@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% from "macros.html" import displayNewstags, displayNewsArticles %}
+
+{% block content %}
+
+{% include "banner.html" %}
+
+<!-- top news -->
+
+<!-- section top news -->
+<section id="top-news" class="py-5 px-1 px-lg-3">
+    <div class="container-fluid">
+        <div class="section-title">
+            <h2 class="fw-bold text-center fs-4">Top News</h2>
+            {{ displayNewsArticles(top_news) }}
+        </div>
+</section>
+
+{% endblock %}
