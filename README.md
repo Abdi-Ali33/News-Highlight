@@ -12,10 +12,14 @@ A web application where users can view the latest news from different sources.
 
 ![Screenshot](./screenshots/screenshot.png)
 
-### Prerequisites
+## Setup Requirements
 
-- An internet connection is important
-- You need to have git installed You can install it with the following command in your terminal $ sudo apt install git-all
+- Git
+- Web-browser or your choice
+- Flask(1.1.4)
+- Pip
+- Python 3.8
+- News ApiKey (https://newsapi.org/)
 
 ## Setup Installation/Requirements
 
