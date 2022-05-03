@@ -10,6 +10,8 @@ A web application where users can view the latest news from different sources.
 
 ## Screenshot
 
+![Screenshot](./screenshots/screenshot.png)
+
 ### Prerequisites
 
 - An internet connection is important
