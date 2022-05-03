@@ -30,13 +30,13 @@ git clone `https://github.com/Abdi-Ali33/News-Highlight.git`
 ```
 
 ```shell
-cd news-hub
+cd News-Highlight
 ```
 
 - create virtual environment
 
 ```shell
-python3.8 -m venv --without-pip venv
+python3.8 -m venv venv
 ```
 
 - To activate the virtual environment
